@@ -11,7 +11,7 @@ Atmosync is a modern, intelligent weather and air quality application that helps
 
 ## 🌐 Live Demo
 
-https://npc-mausam.streamlit.app/
+https://atmosync.streamlit.app/
 
 ## 🚀 How to Use
 
@@ -30,9 +30,7 @@ https://npc-mausam.streamlit.app/
 
 See `requirements.txt` for Python dependencies.
 
-## 👨‍💻 Developer
 
-**Zain** - Weather & Data Visualization Enthusiast
 
 ---
 
