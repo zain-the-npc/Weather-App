@@ -1,0 +1,5 @@
+streamlit
+requests
+streamlit
+requests
+plotly==5.18.0
